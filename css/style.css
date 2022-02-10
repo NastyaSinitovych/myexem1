@@ -1,3 +1,25 @@
 .icons{
     width: 30px;
 }
+.button1{
+    text-align: center;
+}
+.block2{
+    text-align: center;
+    font-family: cursive;
+}
+.photo3{
+    width: 350px;
+    text-align: center;
+}
+.row1{
+    text-align: center;
+    border-right: 2px solid silver;
+}
+.row2{
+    text-align: center;
+}
+.row3{
+    border-top: 2px solid silver;
+
+}
