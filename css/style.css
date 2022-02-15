@@ -117,3 +117,12 @@
 .font{
     font-family: sans-serif;
 }
+.icons5{
+    width: 40px;
+}
+li{
+    list-style-type: none;
+}
+.footer2{
+  display: flex;
+}
