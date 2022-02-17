@@ -126,3 +126,6 @@ li{
 .footer2{
   display: flex;
 }
+body{
+  margin: 0px;
+}
